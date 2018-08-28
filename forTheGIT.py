@@ -4,8 +4,8 @@
 # Edit file by deleting active code
 # and using commented lines instead
 
-print("Hello world")
-#print('Hello world!')
+#print("Hello world")
+print('Hello world!')
 
 #def happy():
 #	return ("Hello!")
