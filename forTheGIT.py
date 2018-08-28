@@ -7,16 +7,16 @@
 print("Hello world")
 #print('Hello world!')
 
-def happy():
-	return ("Hello!")
+#def happy():
+#	return ("Hello!")
 
-happy()
+#happy()
 
 # Use this code to change the file
-#def happy():
-#	x = 3
-#	y = .141592
-#	pii = x + y
-#	print(pii)
-#
-#happy()
+def happy():
+	x = 3
+	y = .141592
+	pii = x + y
+	print(pii)
+
+happy()
